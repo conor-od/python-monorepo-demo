@@ -1,4 +1,4 @@
-# Python Mono-repo Example
+# Python Monorepo Demo
 This is a sample to implement a multi-project structure in python by using [poetry](https://medium.com/analytics-vidhya/poetry-finally-an-all-in-one-tool-to-manage-python-packages-3c4d2538e828) to manage dependencies.
 
 ## Project Structure
