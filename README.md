@@ -1,9 +1,9 @@
 # Python Monorepo Demo
-This is a sample to implement a multi-project structure in python by using [poetry](https://medium.com/analytics-vidhya/poetry-finally-an-all-in-one-tool-to-manage-python-packages-3c4d2538e828) to manage dependencies.
+This is a sample to implement a multi-project structure in python by using [poetry](https://medium.com/analytics-vidhya/poetry-finally-an-all-in-one-tool-to-manage-python-packages-3c4d2538e828) to manage dependencies and packaging of python code. Also includes make files to handle building and deployment of applications using docker images.
 
 ## Project Structure
 ```
-mono-repo
+monorepo-demo
 ├── libs
 │   ├── lib-one
 │   │   ├── Makefile
