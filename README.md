@@ -29,10 +29,10 @@ mono-repo
 Projects are either Libs (./libs) or applications (./stack).
 
 ### Applications
-Application code goes here. Each application has its own dependencies.
+Application specific code goes here. Each application has its own dependencies.
 
 ### Libs
-Each lib specifies its dependencies. Each lib has its own dependencies.  
+Shared code goes here. Each lib has its own dependencies.  
 
 ## Setup
 - Install python3 `apt install python3.9 -y`
